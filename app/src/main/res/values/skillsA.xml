@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="catchSkill">Catch</string>
+    <string name="divingcatchSkill">Diving Catch</string>
+    <string name="divingtackleSkill">Diving Tackle</string>
+    <string name="dodgeSkill">Dodge</string>
+    <string name="jumpupSkill">Jump Up</string>
+    <string name="leapSkill">Leap</string>
+    <string name="sidestepSkill">Side Step</string>
+    <string name="sneakygitSkill">Sneaky Git</string>
+    <string name="sprintSkill">Sprint</string>
+    <string name="surefeetSkill">Sure Feet</string>
+
+    <string-array name="agilitySkills">
+        <item>@string/catchSkill</item>
+        <item>@string/divingcatchSkill</item>
+        <item>@string/divingtackleSkill</item>
+        <item>@string/dodgeSkill</item>
+        <item>@string/jumpupSkill</item>
+        <item>@string/leapSkill</item>
+        <item>@string/sidestepSkill</item>
+        <item>@string/sneakygitSkill</item>
+        <item>@string/sprintSkill</item>
+        <item>@string/surefeetSkill</item>
+    </string-array>
+
+</resources>

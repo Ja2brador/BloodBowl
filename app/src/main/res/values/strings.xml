@@ -1,0 +1,68 @@
+<resources>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="erase">Erase</string>
+    <string name="edit">Edit</string>
+
+    <!-- Player Related-->
+
+    <string name="choosePlayerName">Player Name</string>
+
+    <string name="valueLong">Value</string>
+    <string name="levelLong">Level</string>
+    <string name="expLong">Experience</string>
+    <string name="attsLong">Attributes</string>
+    <string name="growLong">Grow</string>
+    <string name="skillsLong">Skills</string>
+
+    <string name="movementShort">M</string>
+    <string name="strengthShort">S</string>
+    <string name="agilityShort">AG</string>
+    <string name="armorvalueShort">AV</string>
+
+    <string name="badlyhurt">Badly Hurt</string>
+    <string name="nigglingInjury">Niggling Injury</string>
+    <string name="missnextgame">MNG</string>
+
+    <string name="movement1p">+1 M</string>
+    <string name="strength1p">+1 S</string>
+    <string name="agility1p">+1 AG</string>
+    <string name="armorvalue1p">+1 AV</string>
+
+
+    <!-- Team Related-->
+
+    <string name="assistantsShort">AS</string>
+    <string name="cheerleadersShort">CH</string>
+    <string name="fanfactorShort">FF</string>
+    <string name="playersShort">PL</string>
+    <string name="rerollShort">RR</string>
+    <string name="teamValueShort">TV</string>
+    <string name="treasuryShort">TRS</string>
+    <string name="bankShort">BNK</string>
+    <string name="apothecaryShort">APO</string>
+
+    <string name="assistantsLong">Assistants</string>
+    <string name="cheerleadersLong">Cheerleaders</string>
+    <string name="fanfactorLong">Fan Factor</string>
+    <string name="playersLong">Players</string>
+    <string name="rerollLong">ReRoll</string>
+    <string name="teamValueLong">Team Value</string>
+    <string name="treasuryLong">Treasury</string>
+    <string name="bankLong">Bank</string>
+    <string name="apothecaryLong">Apothecary</string>
+
+    <string name="apothecaryCost">@string/unitCost50</string>
+    <string name="addCost">@string/unitCost10</string>
+
+    <string name="standardTV">1000</string>
+
+    <string name="maxFF">@string/qty18</string>
+    <string name="maxPlayers">@string/qty16</string>
+    <string name="maxCheer">@string/qty10</string>
+    <string name="maxAssist">@string/qty10</string>
+    <string name="maxRR">@string/qty8</string>
+</resources>

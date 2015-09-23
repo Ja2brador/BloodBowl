@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="humanRace">Humano</string>
+
+    <string name="humanRolLine">Línea</string>
+    <string name="humanRolCatch">Receptor</string>
+    <string name="humanRolThrow">Lanzador</string>
+    <string name="humanRolBlitz">Blitzer</string>
+    <string name="humanRolOgre">Ogro</string>
+
+    <string-array name="humanRolOgreSkills">
+        <item>@string/thickskullSkill</item>
+        <item>@string/boneheadSkill</item>
+        <item>@string/mightyblowSkill</item>
+        <item>@string/throwteammateSkill</item>
+        <item>@string/lonerSkill</item>
+    </string-array>
+
+</resources>

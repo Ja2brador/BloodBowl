@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="races">
+        <item>@string/humanRace</item>
+        <item>@string/khorneRace</item>
+        <item>@string/orcRace</item>
+    </string-array>
+
+    <string name="maxPrimary16">@string/qty16</string>
+    <string name="maxPrimary12">@string/qty12</string>
+    <string name="maxSecundary">@string/qty6</string>
+    <string name="maxSpecialist4">@string/qty4</string>
+    <string name="maxSpecialist2">@string/qty2</string>
+    <string name="maxUnique">@string/qty1</string>
+
+    <string name="rrCostLowRace">@string/unitCost50</string>
+    <string name="rrCostMedRace">@string/unitCost60</string>
+    <string name="rrCostHighRace">@string/unitCost70</string>
+
+</resources>

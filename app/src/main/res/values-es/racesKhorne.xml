@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="khorneRace">Khorne</string>
+
+    <string name="khorneRolPit">Luchador del Foso</string>
+    <string name="khorneRolLetter">Desangrador</string>
+    <string name="khorneRolHerald">Heraldo</string>
+    <string name="khorneRolBlood">Chupasangre</string>
+
+    <string-array name="khorneRolHeraldSkills">
+        <item>@string/hornsSkill</item>
+        <item>@string/frenzySkill</item>
+        <item>@string/juggernautSkill</item>
+    </string-array>
+
+    <string-array name="khorneRolBloodSkills">
+        <item>@string/wildanimalSkill</item>
+        <item>@string/hornsSkill</item>
+        <item>@string/frenzySkill</item>
+        <item>@string/clawSkill</item>
+        <item>@string/juggernautSkill</item>
+        <item>@string/regenerationSkill</item>
+        <item>@string/lonerSkill</item>
+    </string-array>
+
+</resources>

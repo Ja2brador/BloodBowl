@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="orcRace">Orc</string>
+    <string name="orcRR">@string/rrCostMedRace</string>
+
+    <string name="orcRolLine">Linemen</string>
+    <string name="orcRolGob">Goblin</string>
+    <string name="orcRolThrow">Thrower</string>
+    <string name="orcRolBlack">Black Orc</string>
+    <string name="orcRolBlitz">Blitzer</string>
+    <string name="orcRolTroll">Troll</string>
+
+    <string name="orcRolLineAtts">@string/At5_3_3_9</string>
+    <string name="orcRolGobAtts">@string/At6_2_3_7</string>
+    <string name="orcRolThrowAtts">@string/At5_3_3_8</string>
+    <string name="orcRolBlackAtts">@string/At4_4_2_9</string>
+    <string name="orcRolBlitzAtts">@string/At6_3_3_9</string>
+    <string name="orcRolTrollAtts">@string/At4_5_1_9</string>
+
+    <string name="orcRolLineGrow">@string/g_aspGrow</string>
+    <string name="orcRolGobGrow">@string/a_gspGrow</string>
+    <string name="orcRolThrowGrow">@string/gp_asGrow</string>
+    <string name="orcRolBlackGrow">@string/gs_apGrow</string>
+    <string name="orcRolBlitzGrow">@string/gs_apGrow</string>
+    <string name="orcRolTrollGrow">@string/s_gapGrow</string>
+
+    <string-array name="orcRolLineSkills">
+        <item>@string/noneSkill</item>
+    </string-array>
+
+    <string-array name="orcRolGobSkills">
+        <item>@string/dodgeSkill</item>
+        <item>@string/rightstuffSkill</item>
+        <item>@string/stuntySkill</item>
+    </string-array>
+
+    <string-array name="orcRolThrowSkills">
+        <item>@string/surehandsSkill</item>
+        <item>@string/passSkill</item>
+    </string-array>
+
+    <string-array name="orcRolBlackSkills">
+        <item>@string/noneSkill</item>
+    </string-array>
+
+    <string-array name="orcRolBlitzSkills">
+        <item>@string/blockSkill</item>
+    </string-array>
+
+    <string-array name="orcRolTrollSkills">
+        <item>@string/alwayshungrySkill</item>
+        <item>@string/lonerSkill</item>
+        <item>@string/mightyblowSkill</item>
+        <item>@string/regenerationSkill</item>
+        <item>@string/reallystupidSkill</item>
+        <item>@string/throwteammateSkill</item>
+    </string-array>
+
+
+    <string-array name="orcValues">
+        <item>@string/orcRR</item>
+        <item>@array/orcSkills</item>
+        <item>@array/orcRoles</item>
+        <item>@array/orcAtts</item>
+        <item>@array/orcGrow</item>
+        <item>@array/orcMax</item>
+        <item>@array/orcCost</item>
+    </string-array>
+
+    <string-array name="orcRoles">
+        <item>@string/orcRolLine</item>
+        <item>@string/orcRolGob</item>
+        <item>@string/orcRolThrow</item>
+        <item>@string/orcRolBlack</item>
+        <item>@string/orcRolBlitz</item>
+        <item>@string/orcRolTroll</item>
+    </string-array>
+
+    <string-array name="orcMax">
+        <item>@string/maxPrimary16</item>
+        <item>@string/maxSpecialist4</item>
+        <item>@string/maxSpecialist2</item>
+        <item>@string/maxSpecialist4</item>
+        <item>@string/maxSpecialist4</item>
+        <item>@string/maxUnique</item>
+    </string-array>
+
+    <string-array name="orcAtts">
+        <item>@string/orcRolLineAtts</item>
+        <item>@string/orcRolGobAtts</item>
+        <item>@string/orcRolThrowAtts</item>
+        <item>@string/orcRolBlackAtts</item>
+        <item>@string/orcRolBlitzAtts</item>
+        <item>@string/orcRolTrollAtts</item>
+    </string-array>
+
+    <string-array name="orcSkills">
+        <item>@array/orcRolLineSkills</item>
+        <item>@array/orcRolGobSkills</item>
+        <item>@array/orcRolThrowSkills</item>
+        <item>@array/orcRolBlackSkills</item>
+        <item>@array/orcRolBlitzSkills</item>
+        <item>@array/orcRolTrollSkills</item>
+    </string-array>
+
+    <string-array name="orcGrow">
+        <item>@string/orcRolLineGrow</item>
+        <item>@string/orcRolGobGrow</item>
+        <item>@string/orcRolThrowGrow</item>
+        <item>@string/orcRolBlackGrow</item>
+        <item>@string/orcRolBlitzGrow</item>
+        <item>@string/orcRolTrollGrow</item>
+    </string-array>
+
+    <string-array name="orcCost">
+        <item>@string/unitCost50</item>
+        <item>@string/unitCost40</item>
+        <item>@string/unitCost70</item>
+        <item>@string/unitCost80</item>
+        <item>@string/unitCost80</item>
+        <item>@string/unitCost110</item>
+    </string-array>
+
+</resources>

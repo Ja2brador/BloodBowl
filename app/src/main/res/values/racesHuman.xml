@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="humanRace">Human</string>
+    <string name="humanRR">@string/rrCostLowRace</string>
+
+    <string name="humanRolLine">Linemen</string>
+    <string name="humanRolCatch">Catcher</string>
+    <string name="humanRolThrow">Thrower</string>
+    <string name="humanRolBlitz">Blitzer</string>
+    <string name="humanRolOgre">Ogre</string>
+
+    <string name="humanRolLineAtts">@string/At6_3_3_8</string>
+    <string name="humanRolCatchAtts">@string/At8_2_3_7</string>
+    <string name="humanRolThrowAtts">@string/At6_3_3_8</string>
+    <string name="humanRolBlitzAtts">@string/At7_3_3_8</string>
+    <string name="humanRolOgreAtts">@string/At5_5_2_9</string>
+
+    <string name="humanRolLineGrow">@string/g_aspGrow</string>
+    <string name="humanRolCatchGrow">@string/ga_spGrow</string>
+    <string name="humanRolThrowGrow">@string/gp_asGrow</string>
+    <string name="humanRolBlitzGrow">@string/gs_apGrow</string>
+    <string name="humanRolOgreGrow">@string/s_gapGrow</string>
+
+    <string-array name="humanRolLineSkills">
+        <item>@string/noneSkill</item>
+    </string-array>
+
+    <string-array name="humanRolCatchSkills">
+        <item>@string/catchSkill</item>
+        <item>@string/dodgeSkill</item>
+    </string-array>
+
+    <string-array name="humanRolThrowSkills">
+        <item>@string/surehandsSkill</item>
+        <item>@string/passSkill</item>
+    </string-array>
+
+    <string-array name="humanRolBlitzSkills">
+        <item>@string/blockSkill</item>
+    </string-array>
+
+    <string-array name="humanRolOgreSkills">
+        <item>@string/boneheadSkill</item>
+        <item>@string/lonerSkill</item>
+        <item>@string/mightyblowSkill</item>
+        <item>@string/thickskullSkill</item>
+        <item>@string/throwteammateSkill</item>
+    </string-array>
+
+
+    <string-array name="humanValues">
+        <item>@string/humanRR</item>
+        <item>@array/humanSkills</item>
+        <item>@array/humanRoles</item>
+        <item>@array/humanAtts</item>
+        <item>@array/humanGrow</item>
+        <item>@array/humanMax</item>
+        <item>@array/humanCost</item>
+    </string-array>
+
+    <string-array name="humanRoles">
+        <item>@string/humanRolLine</item>
+        <item>@string/humanRolCatch</item>
+        <item>@string/humanRolThrow</item>
+        <item>@string/humanRolBlitz</item>
+        <item>@string/humanRolOgre</item>
+    </string-array>
+
+    <string-array name="humanMax">
+        <item>@string/maxPrimary16</item>
+        <item>@string/maxSpecialist4</item>
+        <item>@string/maxSpecialist2</item>
+        <item>@string/maxSpecialist4</item>
+        <item>@string/maxUnique</item>
+    </string-array>
+
+    <string-array name="humanAtts">
+        <item>@string/humanRolLineAtts</item>
+        <item>@string/humanRolCatchAtts</item>
+        <item>@string/humanRolThrowAtts</item>
+        <item>@string/humanRolBlitzAtts</item>
+        <item>@string/humanRolOgreAtts</item>
+    </string-array>
+
+    <string-array name="humanSkills">
+        <item>@array/humanRolLineSkills</item>
+        <item>@array/humanRolCatchSkills</item>
+        <item>@array/humanRolThrowSkills</item>
+        <item>@array/humanRolBlitzSkills</item>
+        <item>@array/humanRolOgreSkills</item>
+    </string-array>
+
+    <string-array name="humanGrow">
+        <item>@string/humanRolLineGrow</item>
+        <item>@string/humanRolCatchGrow</item>
+        <item>@string/humanRolThrowGrow</item>
+        <item>@string/humanRolBlitzGrow</item>
+        <item>@string/humanRolOgreGrow</item>
+    </string-array>
+
+    <string-array name="humanCost">
+        <item>@string/unitCost50</item>
+        <item>@string/unitCost70</item>
+        <item>@string/unitCost70</item>
+        <item>@string/unitCost90</item>
+        <item>@string/unitCost140</item>
+    </string-array>
+
+</resources>

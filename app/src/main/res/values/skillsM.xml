@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bighandSkill">Big Hand</string>
+    <string name="clawSkill">Claw</string>
+    <string name="disturbingpresenceSkill">Disturbing Presence</string>
+    <string name="extraarmsSkill">Extra Arms</string>
+    <string name="foulappearanceSkill">Foul Appearance</string>
+    <string name="hornsSkill">Horns</string>
+    <string name="prehensiletailSkill">Prehensile Tail</string>
+    <string name="tentaclesSkill">Tentacles</string>
+    <string name="twoheadsSkill">Two Heads</string>
+    <string name="verylonglegsSkill">Very Long Legs</string>
+
+    <string-array name="mutationSkills">
+        <item>@string/bighandSkill</item>
+        <item>@string/clawSkill</item>
+        <item>@string/disturbingpresenceSkill</item>
+        <item>@string/extraarmsSkill</item>
+        <item>@string/foulappearanceSkill</item>
+        <item>@string/hornsSkill</item>
+        <item>@string/prehensiletailSkill</item>
+        <item>@string/tentaclesSkill</item>
+        <item>@string/twoheadsSkill</item>
+        <item>@string/verylonglegsSkill</item>
+    </string-array>
+
+</resources>

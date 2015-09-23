@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="breaktackleSkill">Break Tackle</string>
+    <string name="grabSkill">Grab</string>
+    <string name="guardSkill">Guard</string>
+    <string name="juggernautSkill">Juggernaut</string>
+    <string name="mightyblowSkill">Mighty Blow</string>
+    <string name="multipleblockSkill">Multiple Block</string>
+    <string name="pilingonSkill">Piling On</string>
+    <string name="standfirmSkill">Stand Firm</string>
+    <string name="strongarmSkill">Strong Arm</string>
+    <string name="thickskullSkill">Thick Skull</string>
+
+    <string-array name="strengthSkills">
+        <item>@string/breaktackleSkill</item>
+        <item>@string/grabSkill</item>
+        <item>@string/guardSkill</item>
+        <item>@string/juggernautSkill</item>
+        <item>@string/mightyblowSkill</item>
+        <item>@string/multipleblockSkill</item>
+        <item>@string/pilingonSkill</item>
+        <item>@string/standfirmSkill</item>
+        <item>@string/strongarmSkill</item>
+        <item>@string/thickskullSkill</item>
+    </string-array>
+
+</resources>

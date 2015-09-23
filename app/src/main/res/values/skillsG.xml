@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="blockSkill">Block</string>
+    <string name="dauntlessSkill">Dauntless</string>
+    <string name="dirtyplayerSkill">Dirty Player</string>
+    <string name="fendSkill">Fend</string>
+    <string name="frenzySkill">Frenzy</string>
+    <string name="kickSkill">Kick</string>
+    <string name="kickoffreturnSkill">Kick-Off Return</string>
+    <string name="passblockSkill">Pass Block</string>
+    <string name="proSkill">Pro</string>
+    <string name="shadowingSkill">Shadowing</string>
+    <string name="stripballSkill">Strip Ball</string>
+    <string name="surehandsSkill">Sure Hands</string>
+    <string name="tackleSkill">Tackle</string>
+    <string name="wrestleSkill">Wrestle</string>
+
+    <string-array name="generalSkills">
+        <item>@string/blockSkill</item>
+        <item>@string/dauntlessSkill</item>
+        <item>@string/dirtyplayerSkill</item>
+        <item>@string/fendSkill</item>
+        <item>@string/frenzySkill</item>
+        <item>@string/kickSkill</item>
+        <item>@string/kickoffreturnSkill</item>
+        <item>@string/passblockSkill</item>
+        <item>@string/proSkill</item>
+        <item>@string/shadowingSkill</item>
+        <item>@string/stripballSkill</item>
+        <item>@string/surehandsSkill</item>
+        <item>@string/tackleSkill</item>
+        <item>@string/wrestleSkill</item>
+    </string-array>
+
+</resources>

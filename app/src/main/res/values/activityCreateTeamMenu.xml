@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_create_team_menu">Create Team</string>
+    <string name="teamNameCTM">Team name</string>
+    <string name="finishCTM">Finish</string>
+    <string name="savedNamesCTM">Names</string>
+    <string name="emptyPlayerNameCTM">You haven\'t introduced a player name</string>
+    <string name="emptyTeamNameCTM">You haven\'t introduced a team name</string>
+
+</resources>

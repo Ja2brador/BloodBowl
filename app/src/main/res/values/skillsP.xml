@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="accurateSkill">Accurate</string>
+    <string name="dumpoffSkill">Dump Off</string>
+    <string name="hailmarypassSkill">Hail Mary Pass</string>
+    <string name="leaderSkill">Leader</string>
+    <string name="nervesofsteelSkill">Nerves of Steel</string>
+    <string name="passSkill">Pass</string>
+    <string name="safethrowSkill">Safe Throw</string>
+
+    <string-array name="passSkills">
+        <item>@string/accurateSkill</item>
+        <item>@string/dumpoffSkill</item>
+        <item>@string/hailmarypassSkill</item>
+        <item>@string/leaderSkill</item>
+        <item>@string/nervesofsteelSkill</item>
+        <item>@string/passSkill</item>
+        <item>@string/safethrowSkill</item>
+    </string-array>
+
+</resources>

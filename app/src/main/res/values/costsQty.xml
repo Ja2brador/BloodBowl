@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="qty18">18</string>
+    <string name="qty16">16</string>
+    <string name="qty12">12</string>
+    <string name="qty10">@string/unitCost10</string>
+    <string name="qty8">8</string>
+    <string name="qty6">6</string>
+    <string name="qty4">4</string>
+    <string name="qty3">3</string>
+    <string name="qty2">2</string>
+    <string name="qty1">1</string>
+
+    <string name="unitCost10">10</string>
+    <string name="unitCost20">20</string>
+    <string name="unitCost30">30</string>
+    <string name="unitCost40">40</string>
+    <string name="unitCost50">50</string>
+    <string name="unitCost60">60</string>
+    <string name="unitCost70">70</string>
+    <string name="unitCost80">80</string>
+    <string name="unitCost90">90</string>
+    <string name="unitCost100">100</string>
+    <string name="unitCost110">110</string>
+    <string name="unitCost120">120</string>
+    <string name="unitCost130">130</string>
+    <string name="unitCost140">140</string>
+    <string name="unitCost150">150</string>
+    <string name="unitCost160">160</string>
+    <string name="unitCost170">170</string>
+    <string name="unitCost180">180</string>
+    <string name="unitCost190">190</string>
+    <string name="unitCost200">200</string>
+    <string name="unitCost210">210</string>
+    <string name="unitCost220">220</string>
+    <string name="unitCost230">230</string>
+    <string name="unitCost240">240</string>
+    <string name="unitCost250">250</string>
+    <string name="unitCost260">260</string>
+    <string name="unitCost270">270</string>
+    <string name="unitCost280">280</string>
+    <string name="unitCost290">290</string>
+    <string name="unitCost300">300</string>
+    <string name="unitCost310">310</string>
+    <string name="unitCost320">320</string>
+    <string name="unitCost330">330</string>
+    <string name="unitCost340">340</string>
+    <string name="unitCost380">380</string>
+    <string name="unitCost390">390</string>
+    <string name="unitCost430">430</string>
+
+</resources>

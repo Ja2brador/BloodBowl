@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_edit_team">Editar Equipo</string>
+    <string name="newET">Nuevo</string>
+    <string name="editET">@string/edit</string>
+    <string name="eraseET">@string/erase</string>
+
+</resources>

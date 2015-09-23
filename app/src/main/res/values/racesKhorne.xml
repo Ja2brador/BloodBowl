@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="khorneRace">Khorne</string>
+    <string name="khorneRR">@string/rrCostHighRace</string>
+
+    <string name="khorneRolPit">Pit Fighter</string>
+    <string name="khorneRolLetter">Bloodletter</string>
+    <string name="khorneRolHerald">Herald</string>
+    <string name="khorneRolBlood">Chupasangre</string>
+
+    <string name="khorneRolPitAtts">@string/At6_3_3_8</string>
+    <string name="khorneRolLetterAtts">@string/At6_3_3_7</string>
+    <string name="khorneRolHeraldAtts">@string/At6_3_3_8</string>
+    <string name="khorneRolBloodAtts">@string/At6_5_1_9</string>
+
+    <string name="khorneRolPitGrow">@string/gp_asGrow</string>
+    <string name="khorneRolLetterGrow">@string/gas_pGrow</string>
+    <string name="khorneRolHeraldGrow">@string/gs_apGrow</string>
+    <string name="khorneRolBloodGrow">@string/s_gapGrow</string>
+
+    <string-array name="khorneRolPitSkills">
+        <item>@string/frenzySkill</item>
+    </string-array>
+
+    <string-array name="khorneRolLetterSkills">
+        <item>@string/hornsSkill</item>
+        <item>@string/juggernautSkill</item>
+        <item>@string/regenerationSkill</item>
+    </string-array>
+
+    <string-array name="khorneRolHeraldSkills">
+        <item>@string/frenzySkill</item>
+        <item>@string/hornsSkill</item>
+        <item>@string/juggernautSkill</item>
+    </string-array>
+
+    <string-array name="khorneRolBloodSkills">
+        <item>@string/clawSkill</item>
+        <item>@string/frenzySkill</item>
+        <item>@string/hornsSkill</item>
+        <item>@string/juggernautSkill</item>
+        <item>@string/lonerSkill</item>
+        <item>@string/regenerationSkill</item>
+        <item>@string/wildanimalSkill</item>
+    </string-array>
+
+
+    <string-array name="khorneValues">
+        <item>@string/khorneRR</item>
+        <item>@array/khorneSkills</item>
+        <item>@array/khorneRoles</item>
+        <item>@array/khorneAtts</item>
+        <item>@array/khorneGrow</item>
+        <item>@array/khorneMax</item>
+        <item>@array/khorneCost</item>
+    </string-array>
+
+    <string-array name="khorneRoles">
+        <item>@string/khorneRolPit</item>
+        <item>@string/khorneRolLetter</item>
+        <item>@string/khorneRolHerald</item>
+        <item>@string/khorneRolBlood</item>
+    </string-array>
+
+    <string-array name="khorneSkills">
+        <item>@array/khorneRolPitSkills</item>
+        <item>@array/khorneRolLetterSkills</item>
+        <item>@array/khorneRolHeraldSkills</item>
+        <item>@array/khorneRolBloodSkills</item>
+    </string-array>
+
+    <string-array name="khorneAtts">
+        <item>@string/khorneRolPitAtts</item>
+        <item>@string/khorneRolLetterAtts</item>
+        <item>@string/khorneRolHeraldAtts</item>
+        <item>@string/khorneRolBloodAtts</item>
+    </string-array>
+
+    <string-array name="khorneGrow">
+        <item>@string/khorneRolPitGrow</item>
+        <item>@string/khorneRolLetterGrow</item>
+        <item>@string/khorneRolHeraldGrow</item>
+        <item>@string/khorneRolBloodGrow</item>
+    </string-array>
+
+    <string-array name="khorneMax">
+        <item>@string/maxPrimary16</item>
+        <item>@string/maxSpecialist4</item>
+        <item>@string/maxSpecialist2</item>
+        <item>@string/maxUnique</item>
+    </string-array>
+
+    <string-array name="khorneCost">
+        <item>@string/unitCost60</item>
+        <item>@string/unitCost80</item>
+        <item>@string/unitCost90</item>
+        <item>@string/unitCost180</item>
+    </string-array>
+
+</resources>

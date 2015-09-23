@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="noneSkill">None</string>
+
+    <string name="alwayshungrySkill">Always Hungry</string>
+    <string name="animositySkill">Animosity</string>
+    <string name="ballchainSkill">Ball &amp; Chain</string>
+    <string name="bloodlustSkill">Bloodlust</string>
+    <string name="boneheadSkill">Bonehead</string>
+    <string name="bombardierSkill">Bombardier</string>
+    <string name="chainsawSkill">Chainsaw</string>
+    <string name="decaySkill">Decay</string>
+    <string name="fanfavoriteSkill">Fan Favorite</string>
+    <string name="hypnoticgazeSkill">Hypnotic Gaze</string>
+    <string name="lonerSkill">Loner</string>
+    <string name="nohandsSkill">No Hands</string>
+    <string name="nurglesrotSkill">Nurgle\'s Rot</string>
+    <string name="reallystupidSkill">Really Stupid</string>
+    <string name="regenerationSkill">Regeneration</string>
+    <string name="rightstuffSkill">Right Stuff</string>
+    <string name="secretweaponSkill">Secret Weapon</string>
+    <string name="stabSkill">Stab</string>
+    <string name="stakesSkill">Stakes</string>
+    <string name="stuntySkill">Stunty</string>
+    <string name="takerootSkill">Take Root</string>
+    <string name="titchySkill">Titchy</string>
+    <string name="throwteammateSkill">Throw Team Mate</string>
+    <string name="wildanimalSkill">Wild Animal</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="breaktackleSkill">Abrirse Paso</string>
+    <string name="grabSkill">Apartar</string>
+    <string name="guardSkill">Defensa</string>
+    <string name="juggernautSkill">Juggernaut</string>
+    <string name="mightyblowSkill">Golpe Mortífero</string>
+    <string name="multipleblockSkill">Placaje Múltiple</string>
+    <string name="pilingonSkill">Aplastar</string>
+    <string name="standfirmSkill">Mantenerse Firme</string>
+    <string name="strongarmSkill">Brazo Fuerte</string>
+    <string name="thickskullSkill">Cabeza Dura</string>
+
+    <string-array name="strengthSkills">
+        <item>@string/breaktackleSkill</item>
+        <item>@string/grabSkill</item>
+        <item>@string/pilingonSkill</item>
+        <item>@string/strongarmSkill</item>
+        <item>@string/thickskullSkill</item>
+        <item>@string/guardSkill</item>
+        <item>@string/mightyblowSkill</item>
+        <item>@string/juggernautSkill</item>
+        <item>@string/standfirmSkill</item>
+        <item>@string/multipleblockSkill</item>
+    </string-array>
+
+</resources>

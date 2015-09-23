@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="accurateSkill">Precisión</string>
+    <string name="dumpoffSkill">Pase Precipitado</string>
+    <string name="hailmarypassSkill">Pase a lo Loco</string>
+    <string name="leaderSkill">Líder</string>
+    <string name="nervesofsteelSkill">Nervios de Acero</string>
+    <string name="passSkill">Pasar</string>
+    <string name="safethrowSkill">Pase Seguro</string>
+
+    <string-array name="passSkills">
+        <item>@string/leaderSkill</item>
+        <item>@string/nervesofsteelSkill</item>
+        <item>@string/passSkill</item>
+        <item>@string/hailmarypassSkill</item>
+        <item>@string/dumpoffSkill</item>
+        <item>@string/safethrowSkill</item>
+        <item>@string/accurateSkill</item>
+    </string-array>
+
+</resources>

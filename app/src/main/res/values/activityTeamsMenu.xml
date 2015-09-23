@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_teams_menu">Teams</string>
+
+    <string name="eraseMessageTM">¿Do you really want to erase the selected team?</string>
+    <string name="createTM">Create</string>
+    <string name="editTM">@string/edit</string>
+    <string name="eraseTM">@string/erase</string>
+    <string name="detailsTM">Details</string>
+    <string name="hideDetailsTM">Hide</string>
+
+</resources>

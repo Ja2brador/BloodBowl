@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="ok">Sí</string>
+    <string name="cancel">Cancelar</string>
+    <string name="erase">Eliminar</string>
+    <string name="edit">Editar</string>
+
+
+    <!-- Relacionado con Jugadores-->
+
+    <string name="choosePlayerName">Nombre del jugador</string>
+
+    <string name="valueLong">Valor</string>
+    <string name="levelLong">Nivel</string>
+    <string name="expLong">Experiencia</string>
+    <string name="attsLong">Atributos</string>
+    <string name="growLong">Crecimiento</string>
+
+    <string name="strengthShort">F</string>
+    <string name="armorvalueShort">AR</string>
+
+    <string name="badlyhurt">Contusión</string>
+    <string name="nigglingInjury">Lesión Permanente</string>
+    <string name="missnextgame">LPPE</string>
+
+    <string name="strength1p">+1 F</string>
+    <string name="armorvalue1p">+1 AR</string>
+
+
+    <!-- Relacionado con Equipos-->
+
+    <string name="cheerleadersShort">AN</string>
+    <string name="fanfactorShort">FH</string>
+    <string name="playersShort">JG</string>
+    <string name="rerollShort">ST</string>
+    <string name="teamValueShort">VE</string>
+    <string name="treasuryShort">TSR</string>
+    <string name="bankShort">BNC</string>
+    <string name="apothecaryShort">MDC</string>
+
+    <string name="assistantsLong">Asistentes</string>
+    <string name="cheerleadersLong">Animadoras</string>
+    <string name="fanfactorLong">Factor de Hinchas</string>
+    <string name="playersLong">Jugadores</string>
+    <string name="rerollLong">Segunda Tirada</string>
+    <string name="teamValueLong">Valor de Equipo</string>
+    <string name="treasuryLong">Tesorería</string>
+    <string name="bankLong">Banco</string>
+    <string name="apothecaryLong">Médico</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="orcRace">Orco</string>
+
+    <string name="orcRolLine">Línea</string>
+    <string name="orcRolGob">Goblin</string>
+    <string name="orcRolThrow">Lanzador</string>
+    <string name="orcRolBlack">Orco Negro</string>
+    <string name="orcRolBlitz">Blitzer</string>
+    <string name="orcRolTroll">Troll</string>
+
+    <string-array name="orcRolGobSkills">
+        <item>@string/rightstuffSkill</item>
+        <item>@string/stuntySkill</item>
+        <item>@string/dodgeSkill</item>
+    </string-array>
+
+    <string-array name="orcRolTrollSkills">
+        <item>@string/mightyblowSkill</item>
+        <item>@string/throwteammateSkill</item>
+        <item>@string/regenerationSkill</item>
+        <item>@string/reallystupidSkill</item>
+        <item>@string/alwayshungrySkill</item>
+        <item>@string/lonerSkill</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="a_gspGrow">A / GFP</string>
+    <string name="am_gspGrow">AM / GFP</string>
+    <string name="g_aspGrow">G / AFP</string>
+    <string name="g_aspmGrow">G / AFPM</string>
+    <string name="ga_spGrow">GA / FP</string>
+    <string name="ga_spmGrow">GA / FPM</string>
+    <string name="gam_spGrow">GAM / FP</string>
+    <string name="gap_sGrow">GAP / F</string>
+    <string name="gas_pGrow">GAF / P</string>
+    <string name="gm_aspGrow">GM / AFP</string>
+    <string name="gp_asGrow">GP / AF</string>
+    <string name="gp_asmGrow">GP / AFM</string>
+    <string name="gpm_asGrow">GPM / AF</string>
+    <string name="gs_apGrow">GF / AP</string>
+    <string name="gs_apmGrow">GF / APM</string>
+    <string name="gsm_apGrow">GFM / AP</string>
+    <string name="gspm_aGrow">GFPM / A</string>
+    <string name="s_gapGrow">F / GAP</string>
+    <string name="s_gapmGrow">F / GAPM</string>
+    <string name="sm_gapGrow">FM / GAP</string>
+
+</resources>

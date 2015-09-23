@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="catchSkill">Atrapar</string>
+    <string name="divingcatchSkill">Recepción Heroica</string>
+    <string name="divingtackleSkill">Placaje Heroico</string>
+    <string name="dodgeSkill">Esquivar</string>
+    <string name="jumpupSkill">En Pie en un Salto</string>
+    <string name="leapSkill">Saltar</string>
+    <string name="sidestepSkill">Echarse a un Lado</string>
+    <string name="sneakygitSkill">Rastrero</string>
+    <string name="sprintSkill">Carrera</string>
+    <string name="surefeetSkill">Pies Firmes</string>
+
+    <string-array name="agilitySkills">
+        <item>@string/catchSkill</item>
+        <item>@string/sprintSkill</item>
+        <item>@string/sidestepSkill</item>
+        <item>@string/jumpupSkill</item>
+        <item>@string/dodgeSkill</item>
+        <item>@string/surefeetSkill</item>
+        <item>@string/divingtackleSkill</item>
+        <item>@string/sneakygitSkill</item>
+        <item>@string/divingcatchSkill</item>
+        <item>@string/leapSkill</item>
+    </string-array>
+
+</resources>

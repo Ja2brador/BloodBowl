@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="noneSkill">Ninguna</string>
+
+    <string name="alwayshungrySkill">Siempre Hambriento</string>
+    <string name="animositySkill">Animosidad</string>
+    <string name="ballchainSkill">Bola con Cadena</string>
+    <string name="bloodlustSkill">Sed de Sangre</string>
+    <string name="boneheadSkill">Cabeza Hueca</string>
+    <string name="bombardierSkill">Bombardero</string>
+    <string name="chainsawSkill">Sierra Mecánica</string>
+    <string name="decaySkill">Degenerar</string>
+    <string name="fanfavoriteSkill">Favorito del Público</string>
+    <string name="hypnoticgazeSkill">Mirada Hipnótica</string>
+    <string name="lonerSkill">Solitario</string>
+    <string name="nohandsSkill">Sin Manos</string>
+    <string name="nurglesrotSkill">Putrefacción de Nurgle</string>
+    <string name="reallystupidSkill">Realmente Estúpido</string>
+    <string name="regenerationSkill">Regenerar</string>
+    <string name="rightstuffSkill">Agilidad Felina</string>
+    <string name="secretweaponSkill">Arma Secreta</string>
+    <string name="stabSkill">Puñal</string>
+    <string name="stakesSkill">Estacas</string>
+    <string name="stuntySkill">Escurridizo</string>
+    <string name="takerootSkill">Echar Raíces</string>
+    <string name="titchySkill">Canijo</string>
+    <string name="throwteammateSkill">Lanzar Compañero de Equipo</string>
+    <string name="wildanimalSkill">Animal Salvaje</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bighandSkill">Mano Grande</string>
+    <string name="clawSkill">Garras</string>
+    <string name="disturbingpresenceSkill">Presencia Perturbadora</string>
+    <string name="extraarmsSkill">Manos Extra</string>
+    <string name="foulappearanceSkill">Apariencia Asquerosa</string>
+    <string name="hornsSkill">Cuernos</string>
+    <string name="prehensiletailSkill">Cola Prensil</string>
+    <string name="tentaclesSkill">Tentáculos</string>
+    <string name="twoheadsSkill">Dos Cabezas</string>
+    <string name="verylonglegsSkill">Piernas Muy Largas</string>
+
+    <string-array name="mutationSkills">
+        <item>@string/foulappearanceSkill</item>
+        <item>@string/prehensiletailSkill</item>
+        <item>@string/hornsSkill</item>
+        <item>@string/twoheadsSkill</item>
+        <item>@string/clawSkill</item>
+        <item>@string/bighandSkill</item>
+        <item>@string/extraarmsSkill</item>
+        <item>@string/verylonglegsSkill</item>
+        <item>@string/disturbingpresenceSkill</item>
+        <item>@string/tentaclesSkill</item>
+    </string-array>
+
+</resources>
